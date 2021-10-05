@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sherlkk
+- 👋 Hi, I’m Rongrong
 - 👀 I’m interested in travelling
 - 🌱 I’m currently learning Spatial Data Analysis in UCL
 - 💞️ I’m looking to collaborate on a rock band
