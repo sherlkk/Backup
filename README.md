@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rongrong
 - 👀 I’m interested in beautiful things.
-- 🌱 I’m currently learning Spatial Data Analysis in UCL
-- 💞️ I’m looking to collaborate on a rock band
+- 🌱 I’m currently learning Spatial Data Analysis.
 - 📫 How to reach me   ^^^^  sherlker@outlook.jp
 
 <!---
