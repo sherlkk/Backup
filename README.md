@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rongrong
-- 👀 I’m interested in everythings.
-- 🌱 I’m currently learning Spatial Data Analysis.
+- 👋 Hi, I’m Rongrong.
+- 👀 I’m interested in everything.
+- 🌱 I’m currently learning Spatial Data Analysis and Visualisation.
 - 📫 How to reach me   ^^^^  sherlker@outlook.jp
 
 <!---
