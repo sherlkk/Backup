@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rongrong.
+- 👋 Hi, I'm Cass.
 - 👀 I’m interested in everything.
 - 🌱 I’m currently learning Spatial Data Analysis and Visualisation.
 - 📫 How to reach me   ^^^^  sherlker@outlook.jp
