@@ -1,5 +1,5 @@
 - 👋 Hi.
-- 👀 I’m interested in everything.
+- 👀 I’m interested in hiking.
 - 🌱 I’m currently learning Spatial Data Analysis and Visualisation.
 - 📫 How to reach me   ^^^^  sherlker@outlook.jp
 
