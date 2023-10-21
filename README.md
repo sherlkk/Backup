@@ -1,7 +1,4 @@
-- 👋 Hi.
-- 👀 I’m interested in hiking.
-- 🌱 I’m currently learning Spatial Data Analysis and Visualisation.
-- 📫 How to reach me   ^^^^  sherlker@outlook.jp
+- 👋 Hi. This is Remi.
 
 <!---
 sherlkk/sherlkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
